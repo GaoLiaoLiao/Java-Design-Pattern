@@ -6,9 +6,8 @@ package adapter;
 public class AdapterPattern {
 
     public static void main(String[] args) {
-        PlayerAdapter playerAdapter = new PlayerAdapter();
-        playerAdapter.play("mp3", "song.mp3");
-        playerAdapter.play("wma", "song.wma");
+        MusicPlayer musicPlayer = new PlayerAdapter();
+        musicPlayer.play("mp3", "song.mp3~~");
+        musicPlayer.play("wma", "song.wma~~");
     }
-
 }

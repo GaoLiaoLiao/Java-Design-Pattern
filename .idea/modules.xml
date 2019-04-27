@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Design-Pattern.iml" filepath="$PROJECT_DIR$/.idea/Java-Design-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/dsadasdas.iml" filepath="$PROJECT_DIR$/designpattern/dsadasdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/dsfsdfsdfs.iml" filepath="$PROJECT_DIR$/designpattern/dsfsdfsdfs.iml" />
     </modules>
   </component>
 </project>
